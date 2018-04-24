@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos_DoubleLinkedList", "Algoritmos_DoubleLinkedList\Algoritmos_DoubleLinkedList.csproj", "{D2B7C7C3-BE41-497B-9485-C74E1E07E261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alortimos_SimpleDataStructures", "..\Alortimos_SimpleDataStructures\Alortimos_SimpleDataStructures\Alortimos_SimpleDataStructures.csproj", "{D0B0E355-A4B9-44D9-B6E4-0D7A1D9F4D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos_CircleLinkedList", "Algoritmos_CircleLinkedList\Algoritmos_CircleLinkedList.csproj", "{21F5F979-BA76-4F93-B771-2CB2A04EAD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B7C7C3-BE41-497B-9485-C74E1E07E261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B7C7C3-BE41-497B-9485-C74E1E07E261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B7C7C3-BE41-497B-9485-C74E1E07E261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B7C7C3-BE41-497B-9485-C74E1E07E261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B0E355-A4B9-44D9-B6E4-0D7A1D9F4D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B0E355-A4B9-44D9-B6E4-0D7A1D9F4D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B0E355-A4B9-44D9-B6E4-0D7A1D9F4D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B0E355-A4B9-44D9-B6E4-0D7A1D9F4D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F5F979-BA76-4F93-B771-2CB2A04EAD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F5F979-BA76-4F93-B771-2CB2A04EAD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F5F979-BA76-4F93-B771-2CB2A04EAD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F5F979-BA76-4F93-B771-2CB2A04EAD33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AAA9643-9D00-4D2C-92C6-B85C8977EBDB}
+	EndGlobalSection
+EndGlobal
